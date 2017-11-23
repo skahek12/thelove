@@ -1,7 +1,7 @@
 # thelove
 Integrated home cleaning management system
 
-#프로젝트 개요
+# 프로젝트 개요
 통합 홈 클리닝 관리 시스템
     - 실내 어지러움, 실내 공기 질, 쓰레기양을 종합한 지수인 “더럽 지수“로 모니터링 및 제어.
    1. 딥러닝을 이용한 실내 어지러움 측정
@@ -13,7 +13,7 @@ Integrated home cleaning management system
    4. 더럽 지수
      - 실내 어지러움, 실내 공기 질, 쓰레기양 상태를 종합하여 한눈에 집 안 청결도를 확인 할 수 있다.
 
-#파일설명
+# 파일설명
 main.py & utill.py
 이미지를 깔끔한지 어지러운지 딥러닝 CNN 기법으로 판별하고 수치화시켜 출력.
 
